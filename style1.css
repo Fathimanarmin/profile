@@ -1,0 +1,145 @@
+#div1{
+    background-color:rgb(235, 5, 5);
+    width:600px;
+    height: 64px;
+}
+#h1{
+    color: white;
+    padding-top: 2px;
+    padding-left: 237px;
+    font-family: 'Pacifico', cursive;
+}
+#div2{
+    background-color:rgb(235, 5, 5);
+    width: 905px;
+    height: 50px;
+    margin-left: 600px;
+    margin-top: -89px;
+}
+#h6{
+    color: white;
+    padding-top: 15px;
+}
+#h7{
+    color: rgba(225,225,255,0.842);
+    padding-left: 650px;
+    margin-top: -35px;
+}
+#h8{
+    color: rgba(225,225,255,0.842);
+    padding-left: 724px;
+    margin-top: -38px;  
+}
+#h9{
+    color: rgba(225,225,255,0.842);
+    padding-left: 784px;
+    margin-top: -37px;
+}
+#h10{
+    color: rgba(225,225,255,0.842);
+    padding-left: 877px;
+    margin-top: -38px; 
+}
+#h11{
+    color: rgba(225,225,255,0.842);
+    padding-left: 963px;
+    margin-top: -38px;
+}
+#img{
+    width: 1505px;
+    height:350px;
+    margin-top: -3px;
+}
+#h2{
+    color:white;
+    margin-top: -319px;
+    margin-left: 272px;
+}
+#para{
+    color: gainsboro;
+    padding-left: 275px;
+    margin-top: -13px;
+
+}
+#div3{
+    background-color:white;
+    width: 1505px;
+    height: 183px;
+}
+#h3{
+    text-align: center;
+    margin-top: 232px;
+    padding-top: 45px;
+}
+#para2{
+    text-align: center;
+    padding-left:-11 px;
+    color: darkgray;
+    margin-top: 11px;
+}
+#div4{
+    background-color: rgb(229, 224, 224);
+    width: 1505px;
+    height: 275px;
+    margin-top: -19px;
+}
+#head{
+    text-align: center;
+    padding-top: 62px;
+}
+#head1{
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(167, 165, 165);
+}
+#box1{
+    background-color: white;
+    width:250px;
+    height: 149px;
+    margin-left: 343px;
+    margin-top: 68px;
+}
+#box2{
+    background-color: white;
+    width:250px;
+    height: 151px;
+    margin-left: 618px;
+    margin-top: -149px;
+}
+#box3{
+    background-color:white;
+    width:250px;
+    height: 150px;
+    margin-left: 894px;
+    margin-top: -151px;
+}
+#icon1{
+    padding-left: 109px;
+    padding-top: 23px;
+    font-size: large;
+}
+#head2{
+    text-align: center;
+    margin-top: 10px;
+}
+#icon3{
+    padding-left: 109px;
+    padding-top: 23px;
+    font-size: large; 
+}
+#head3{
+    text-align: center;
+    margin-top: 10px;
+}
+#icon2{
+    padding-left: 109px;
+    padding-top: 23px;
+    font-size: large;
+}
+#head4{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+    
